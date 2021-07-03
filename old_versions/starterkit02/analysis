@@ -1,0 +1,52 @@
+For 30 bins:
+1.
+Without any other operations:
+min value for channel  0:     0.0198573
+max value for channel  0:     1
+deviation for channel  0:     0.286196
+average for channel    0:     0.539792
+
+min value for channel  1:     0.0391053
+max value for channel  1:     1
+deviation for channel  1:     0.273129
+average for channel    1:     0.544408
+
+min value for channel  2:     0.0902267
+max value for channel  2:     1
+deviation for channel  2:     0.258248
+average for channel    2:     0.554308
+
+2.gamma 1.8
+min value for channel  0:     0.170917
+max value for channel  0:     1
+deviation for channel  0:     0.261977
+average for channel    0:     0.555602
+
+min value for channel  1:     0.282808
+max value for channel  1:     1
+deviation for channel  1:     0.228043
+average for channel    1:     0.583312
+
+min value for channel  2:     0.408525
+max value for channel  2:     1
+deviation for channel  2:     0.182578
+average for channel    2:     0.62529
+
+The min valllue has been bought up dramatically, which is around 0.16 for red, 0.25 for green, 0.31 for blue.The deiviation is lower for all channels, while the average is higher around 0.04. The deviation for green and blue drop more than that in red.
+
+3.quench
+min value for channel  0:     0.352684
+max value for channel  0:     1
+deviation for channel  0:     0.211087
+average for channel    0:     0.600671
+
+min value for channel  1:     0.444433
+max value for channel  1:     1
+deviation for channel  1:     0.178458
+average for channel    1:     0.634742
+
+min value for channel  2:     0.552799
+max value for channel  2:     1
+deviation for channel  2:     0.138929
+average for channel    2:     0.678742
+I find that everage has been brought up.Deviation drops by 0.1.All the minimum value rise up, while minimum blue number dramatically rise and that bring out the bluish part hidden in the image and this is because the original image has a lot of red value.This bring the blue curve up.Average is 0.1 higher.The maximum value does not change all the way.
